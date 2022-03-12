@@ -1,0 +1,39 @@
+#HD-main{
+ background-color: #f8f5f2;
+ width: 100%;
+ height: 100px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+ flex-direction: row;
+ border-bottom-left-radius: 15px;
+ border-bottom-right-radius: 15px;
+}
+
+#HD-main nav button{
+    background-color: transparent;
+    border: none;
+    font-size: 22px;
+    margin-left: 40px;
+}
+
+#HD-main nav button:hover{
+    text-decoration: underline;
+    text-decoration-color: #fc992d;
+}
+
+#HD-logo{
+    margin-left: 10px;
+    height: 80px;
+}
+
+#HD-social-media{
+    display: flex;
+    flex-direction: row;
+}
+
+.HD-social-icon{
+    height: 80px;
+    width: 80px;
+    overflow: hidden;
+}

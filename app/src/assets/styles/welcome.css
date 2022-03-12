@@ -1,0 +1,28 @@
+#WE-main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#WE-play{
+    margin-top: 300px;
+    background-color: transparent;
+    border: none;
+    padding: 0px;
+}
+
+#WE-notif-button{
+    margin-top: 200px;
+    min-height: 50px;
+    background-color: transparent;
+    border-radius: 15px;
+    overflow: hidden;
+    border: none;
+}
+
+#WE-notif-button img{
+    width: 100px;
+    height: 100px;
+    object-fit:fill;
+}
