@@ -76,6 +76,7 @@ Jsx containers followed the sames rules than the components one.
 
 - Paths are made of containers **and not a component**
 - Paths are named with [PascalCase](https://techterms.com/definition/pascalcase)
+- Paths are referenced in Path.js file
 
 ### How to modify styles
 
