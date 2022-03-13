@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
 import Header from '../components/Header';
-import "../assets/styles/main.css"
+import "../assets/styles/main.scss"
 import { useState } from 'react';
 import Welcome from '../components/Welcome';
 const radio_link = "https://listen.radioking.com/radio/284398/stream/330307"

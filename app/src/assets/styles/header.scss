@@ -1,3 +1,5 @@
+@import "main";
+
 #HD-main{
  background-color: #f8f5f2;
  width: 100%;
@@ -19,7 +21,7 @@
 
 #HD-main nav button:hover{
     text-decoration: underline;
-    text-decoration-color: #fc992d;
+    text-decoration-color: $orange-beguin;
 }
 
 #HD-logo{

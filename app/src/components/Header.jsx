@@ -1,6 +1,6 @@
 import React from "react";
 import placeHolderImg from "../assets/img/placeHolder.jpeg"
-import "../assets/styles/header.css"
+import "../assets/styles/header.scss"
 
 export default function Header(){
 

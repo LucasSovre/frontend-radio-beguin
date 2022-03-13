@@ -1,6 +1,6 @@
 import React from "react";
 import placeHolderImg from "../assets/img/placeHolder.jpeg"
-import "../assets/styles/welcome.css"
+import "../assets/styles/welcome.scss"
 
 export default function Welcome({play, setPlay}){
     
